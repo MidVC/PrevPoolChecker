@@ -5,7 +5,7 @@
   "sheet_url": "https://docs.google.com/spreadsheets/d/1wTbRBO40x-zMdGcTQzHYf1F0-szs97vRgAOhp-zjksk",
   "pools": [
     {
-      "round": "Tournament Pool Skill",
+      "round": "Tournament Pool",
       "maps": [
         {
           "slot": "NM1",
@@ -710,7 +710,7 @@
       ]
     },
     {
-      "round": "Team Pools row 2",
+      "round": "Team Pools Funny",
       "maps": [
         {
           "slot": "NM1",
