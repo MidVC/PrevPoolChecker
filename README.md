@@ -175,3 +175,7 @@ sheet has several (e.g. `T1`/`T2`). Useful flags when a sheet is irregular:
 - **WOC 16** — tab `Mappools`. Grand Finals → Qualifiers (6 rounds, 108 maps).
 - **WOC 15** — tabs `Mappools T1` + `Mappools T2`; rounds prefixed `T1`/`T2`
   (10 rounds, 166 maps).
+
+## License
+
+[MIT](LICENSE).
