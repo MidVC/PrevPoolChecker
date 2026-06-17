@@ -55,16 +55,23 @@ def parse_dump(path):
     for sheet in blob:
         name = sheet.get("sheetName", "")
         grid = sheets.setdefault(name, {})
+
+        def add(cell):
+            val = (cell.get("value") or "").strip()
+            if not val:
+                return
+            m = LOC_RE.search(cell.get("location", ""))
+            if not m:
+                return
+            grid[(int(m.group(2)), m.group(1))] = val
+
         for row in sheet.get("data", []):
             for cell in row:
-                val = (cell.get("value") or "").strip()
-                if not val:
-                    continue
-                m = LOC_RE.search(cell.get("location", ""))
-                if not m:
-                    continue
-                col, rownum = m.group(1), int(m.group(2))
-                grid[(rownum, col)] = val
+                add(cell)
+        # row 1 is returned separately as columnHeaders; some tabs put the first
+        # pool's header there (e.g. WOC 18 "Knockouts").
+        for cell in sheet.get("columnHeaders", []):
+            add(cell)
     return sheets
 
 

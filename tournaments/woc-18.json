@@ -5,6 +5,151 @@
   "sheet_url": "https://docs.google.com/spreadsheets/d/1oftHwWLk7SM-HytThl03TdpOKabTQnzRj6KqE7j2aoo",
   "pools": [
     {
+      "round": "Knockouts",
+      "maps": [
+        {
+          "slot": "NM1",
+          "mod": "NM",
+          "beatmap_id": 3145851,
+          "beatmapset_id": 1383608,
+          "title": "Ito Kashitaro - Yuudachi no Ribbon [Collab Extreme]"
+        },
+        {
+          "slot": "NM2",
+          "mod": "NM",
+          "beatmap_id": 1419149,
+          "beatmapset_id": 671140,
+          "title": "papiyon feat. Hatsune Miku - White Prism [Prism]"
+        },
+        {
+          "slot": "NM3",
+          "mod": "NM",
+          "beatmap_id": 2028600,
+          "beatmapset_id": 393663,
+          "title": "UNDEAD CORPORATION - Flowering Night Fever [Nowa's Extra]"
+        },
+        {
+          "slot": "NM4",
+          "mod": "NM",
+          "beatmap_id": 4164086,
+          "beatmapset_id": 2002366,
+          "title": "DJ Raisei - T.R.A.P. [Extreme]"
+        },
+        {
+          "slot": "NM5",
+          "mod": "NM",
+          "beatmap_id": 4178423,
+          "beatmapset_id": 2008603,
+          "title": "Nagiha - Alice in a xxxxxxxx [Wonderland?]"
+        },
+        {
+          "slot": "NM6",
+          "mod": "NM",
+          "beatmap_id": 4151066,
+          "beatmapset_id": 1997218,
+          "title": "Jenny Rom - The Game of Love (E=MC2 Mix) [american lover]"
+        },
+        {
+          "slot": "HD1",
+          "mod": "HD",
+          "beatmap_id": 3880697,
+          "beatmapset_id": 1781183,
+          "title": "Coda - Fighting Gold [aishiteiru's Extra]"
+        },
+        {
+          "slot": "HD2",
+          "mod": "HD",
+          "beatmap_id": 3093649,
+          "beatmapset_id": 1510751,
+          "title": "IOSYS - Cirno's Perfect Math Class [Reading Class]"
+        },
+        {
+          "slot": "HD3",
+          "mod": "HD",
+          "beatmap_id": 4004208,
+          "beatmapset_id": 1780095,
+          "title": "Mindless Self Indulgence - Faggot [KogumaX's Expert]"
+        },
+        {
+          "slot": "HR1",
+          "mod": "HR",
+          "beatmap_id": 717133,
+          "beatmapset_id": 236396,
+          "title": "LIQU@. - Yotogibanashi no Kamikakushi [oko's Extra]"
+        },
+        {
+          "slot": "HR2",
+          "mod": "HR",
+          "beatmap_id": 2267424,
+          "beatmapset_id": 1052006,
+          "title": "Street - Hestia [Knight's Extra]"
+        },
+        {
+          "slot": "HR3",
+          "mod": "HR",
+          "beatmap_id": 2153771,
+          "beatmapset_id": 885158,
+          "title": "Unlucky Morpheus - Phantom Blood [Atalanta's Extra]"
+        },
+        {
+          "slot": "DT1",
+          "mod": "DT",
+          "beatmap_id": 804714,
+          "beatmapset_id": 359501,
+          "title": "TRUE - DREAM SOLISTER [Insane]"
+        },
+        {
+          "slot": "DT2",
+          "mod": "DT",
+          "beatmap_id": 3371359,
+          "beatmapset_id": 1635846,
+          "title": "POP ART TOWN - i [LECAKE'S INSANE]"
+        },
+        {
+          "slot": "DT3",
+          "mod": "DT",
+          "beatmap_id": 3937149,
+          "beatmapset_id": 1905234,
+          "title": "Leah Kate - Life Sux (Sped Up Ver.) [Insane]"
+        },
+        {
+          "slot": "DT4",
+          "mod": "DT",
+          "beatmap_id": 4138996,
+          "beatmapset_id": 1988729,
+          "title": "Ashley Tisdale - He Said She Said [Harder]"
+        },
+        {
+          "slot": "FM1",
+          "mod": "FM",
+          "beatmap_id": 403449,
+          "beatmapset_id": 102293,
+          "title": "LiSA - EGOiSTiC SHOOTER [vs CRN]"
+        },
+        {
+          "slot": "FM2",
+          "mod": "FM",
+          "beatmap_id": 2662619,
+          "beatmapset_id": 1281934,
+          "title": "Kawada Mami - Borderland [Extra]"
+        },
+        {
+          "slot": "FM3",
+          "mod": "FM",
+          "beatmap_id": 2264154,
+          "beatmapset_id": 1082394,
+          "title": "fang - Fallen Asleep [Sharu x Halgoh]"
+        },
+        {
+          "slot": "TB1",
+          "mod": "TB",
+          "beatmap_id": 1966391,
+          "beatmapset_id": 941673,
+          "title": "Nhato vs. Taishi - SOL [SUPERNOVA]"
+        }
+      ]
+    },
+    {
       "round": "Swiss 5",
       "maps": [
         {
