@@ -20,7 +20,11 @@ import os
 
 import osu_sets
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+# When frozen by PyInstaller the bundled data lives under sys._MEIPASS.
+if getattr(sys, "frozen", False):
+    ROOT = sys._MEIPASS
+else:
+    ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(ROOT, "tournaments")
 
 
@@ -90,10 +94,10 @@ def report(raw, by_id, by_set, cache):
     # up; fall back to whatever the dataset already knows about this exact map.
     sid = extract_set_from_url(raw)
     online_ok = True
-    if sid is None:
-        sid, online_ok = osu_sets.resolve_one(bid, cache)
-    if sid is None and bid in by_id:
+    if sid is None and bid in by_id:  # the dataset already knows pooled maps' sets
         sid = by_id[bid][0].get("beatmapset_id")
+    if sid is None:  # otherwise resolve via the credential-free /b/{id} redirect
+        sid, online_ok = osu_sets.resolve_one(bid, cache)
 
     print(f"\n=== {raw}  (beatmap id: {bid}, set: {sid if sid else '?'}) ===")
 

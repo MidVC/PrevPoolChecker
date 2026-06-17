@@ -8,3 +8,8 @@ credentials.json
 sets_cache.json
 *.tmp
 __pycache__/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec

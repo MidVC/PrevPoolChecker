@@ -176,6 +176,23 @@ sheet has several (e.g. `T1`/`T2`). Useful flags when a sheet is irregular:
 - **WOC 15** — tabs `Mappools T1` + `Mappools T2`; rounds prefixed `T1`/`T2`
   (10 rounds, 166 maps).
 
+## Building a standalone exe
+
+A single self-contained `PrevPoolChecker.exe` can be built with
+[PyInstaller](https://pyinstaller.org). The tournament JSON is embedded in the
+exe, and it contains no credentials (set lookups use the `/b/{id}` redirect):
+
+```
+pip install pyinstaller
+pyinstaller --onefile --console --name PrevPoolChecker \
+    --add-data "tournaments;tournaments" check.py
+```
+
+The result is `dist/PrevPoolChecker.exe` — copy it anywhere and run it; no Python
+install, no `tournaments/` folder, and no credentials are needed. A
+`sets_cache.json` is created next to the exe to cache set lookups between runs.
+(On macOS/Linux the `--add-data` separator is `:` instead of `;`.)
+
 ## License
 
 [MIT](LICENSE).

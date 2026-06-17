@@ -13,13 +13,17 @@ query lookups).
 import json
 import os
 import re
+import sys
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-CACHE_PATH = os.path.join(ROOT, "sets_cache.json")
+# When frozen by PyInstaller, keep the cache next to the .exe so it persists
+# (sys._MEIPASS is a temp dir wiped on exit); credentials are never used there.
+_APP_DIR = os.path.dirname(sys.executable) if getattr(sys, "frozen", False) else ROOT
+CACHE_PATH = os.path.join(_APP_DIR, "sets_cache.json")
 CREDS_PATH = os.path.join(ROOT, "credentials.json")
 TOKEN_URL = "https://osu.ppy.sh/oauth/token"
 API = "https://osu.ppy.sh/api/v2"
