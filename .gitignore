@@ -1,0 +1,10 @@
+# Local osu! API credentials — never commit these
+credentials.json
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# Caches / local working files
+sets_cache.json
+*.tmp
+__pycache__/

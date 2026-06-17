@@ -1,0 +1,1065 @@
+{
+  "key": "WOC 21",
+  "name": "WOC 21",
+  "ruleset": "osu",
+  "sheet_url": "https://docs.google.com/spreadsheets/d/1P0vqcEVfAXopuifG2hDIc1SSy34uendUfPb-S2UnBY4",
+  "pools": [
+    {
+      "round": "Grand Finals",
+      "maps": [
+        {
+          "slot": "NM1",
+          "mod": "NM",
+          "beatmap_id": 4894179,
+          "beatmapset_id": 2292214,
+          "title": "alien3 - alien friend request [oomfie from outer space]"
+        },
+        {
+          "slot": "NM2",
+          "mod": "NM",
+          "beatmap_id": 3793449,
+          "beatmapset_id": 1846676,
+          "title": "Shadow of Intent - The Forsaken Effigy [Hatred Embodiment]"
+        },
+        {
+          "slot": "NM3",
+          "mod": "NM",
+          "beatmap_id": 4265911,
+          "beatmapset_id": 2043955,
+          "title": "TK from Ling tosite sigure - Bonnou [Unveil]"
+        },
+        {
+          "slot": "NM4",
+          "mod": "NM",
+          "beatmap_id": 4376790,
+          "beatmapset_id": 2088555,
+          "title": "Magnetude - Valhalla (Cut Ver.) [Olaf, the Berserker]"
+        },
+        {
+          "slot": "NM5",
+          "mod": "NM",
+          "beatmap_id": 3951798,
+          "beatmapset_id": 1915534,
+          "title": "Equinox7 - Intervals [causal annihilation]"
+        },
+        {
+          "slot": "NM6",
+          "mod": "NM",
+          "beatmap_id": 3022593,
+          "beatmapset_id": 1461145,
+          "title": "NIWASHI - Sapphire On Fire [Feiri's Another]"
+        },
+        {
+          "slot": "HD1",
+          "mod": "HD",
+          "beatmap_id": 5146555,
+          "beatmapset_id": 2380793,
+          "title": "ShinRa-Bansho - Administrator's Logic [Phantasm]"
+        },
+        {
+          "slot": "HR1",
+          "mod": "HR",
+          "beatmap_id": 2918129,
+          "beatmapset_id": 1415985,
+          "title": "the peggies - Kimi no Sei [Extra]"
+        },
+        {
+          "slot": "HR2",
+          "mod": "HR",
+          "beatmap_id": 2364104,
+          "beatmapset_id": 1131805,
+          "title": "LEAF XCEED Music Division - Fur Elisa [Expert]"
+        },
+        {
+          "slot": "HR3",
+          "mod": "HR",
+          "beatmap_id": 3536469,
+          "beatmapset_id": 1730446,
+          "title": "Camellia vs. Expander - AZISAI [Extra]"
+        },
+        {
+          "slot": "DT1",
+          "mod": "DT",
+          "beatmap_id": 936390,
+          "beatmapset_id": 390668,
+          "title": "Kano - Dear Brave [Insane]"
+        },
+        {
+          "slot": "DT2",
+          "mod": "DT",
+          "beatmap_id": 251792,
+          "beatmapset_id": 93287,
+          "title": "sakuzyo - Black Lair [Another]"
+        },
+        {
+          "slot": "DT3",
+          "mod": "DT",
+          "beatmap_id": 3910599,
+          "beatmapset_id": 1897409,
+          "title": "senya - Chiisana Hari no Youna [lunatic collab]"
+        },
+        {
+          "slot": "DT4",
+          "mod": "DT",
+          "beatmap_id": 4123724,
+          "beatmapset_id": 1957147,
+          "title": "Britney Spears - Gimme More [Sylas' Insane]"
+        },
+        {
+          "slot": "FM1",
+          "mod": "FM",
+          "beatmap_id": 2449190,
+          "beatmapset_id": 1174287,
+          "title": "BUMP OF CHICKEN - Makka na Sora o Mita darou ka [NM1]"
+        },
+        {
+          "slot": "FM2",
+          "mod": "FM",
+          "beatmap_id": 125702,
+          "beatmapset_id": 39428,
+          "title": "SHK - Identity Part 4 [Insane]"
+        },
+        {
+          "slot": "FM3",
+          "mod": "FM",
+          "beatmap_id": 523532,
+          "beatmapset_id": 153887,
+          "title": "Akiyama Uni - Odoru Mizushibuki [Extra]"
+        },
+        {
+          "slot": "FM4",
+          "mod": "FM",
+          "beatmap_id": 4585859,
+          "beatmapset_id": 2172532,
+          "title": "Memme - Chinese Restaurant [:hot_face:]"
+        },
+        {
+          "slot": "EZ1",
+          "mod": "EZ",
+          "beatmap_id": 2219160,
+          "beatmapset_id": 890981,
+          "title": "Adust Rain - psychology [lu^3's Extra]"
+        },
+        {
+          "slot": "RX1",
+          "mod": "RX",
+          "beatmap_id": 5389957,
+          "beatmapset_id": 2463190,
+          "title": "Hilight Tribe - FREEING TIBETAN KPOP HUNTERS FT TIBETAN MONK [Osu players allowed into agartha]"
+        },
+        {
+          "slot": "WI1",
+          "mod": "WI",
+          "beatmap_id": 2388297,
+          "beatmapset_id": 1143822,
+          "title": "SMiLE.dk - Koko Soko (AKIBA KOUBOU Eurobeat Remix) [INCREDIBILIS]"
+        },
+        {
+          "slot": "TB1",
+          "mod": "TB",
+          "beatmap_id": 4021136,
+          "beatmapset_id": 1943821,
+          "title": "Sparxe - Doom Grotto [Coveted Treasure]"
+        },
+        {
+          "slot": "TB2",
+          "mod": "TB",
+          "beatmap_id": 1295837,
+          "beatmapset_id": 614248,
+          "title": "TRakker - Countdown to the Blue [Dusk]"
+        },
+        {
+          "slot": "TB3",
+          "mod": "TB",
+          "beatmap_id": 4412051,
+          "beatmapset_id": 2102873,
+          "title": "DJ-Technetium - Poison Body ~ Forsaken Doll (MAKINA MIX) [Phantasm]"
+        }
+      ]
+    },
+    {
+      "round": "Finals",
+      "maps": [
+        {
+          "slot": "NM1",
+          "mod": "NM",
+          "beatmap_id": 5157912,
+          "beatmapset_id": 2385157,
+          "title": "Nightcore - Angel of Darkness [1211752329681777777777777777777777]"
+        },
+        {
+          "slot": "NM2",
+          "mod": "NM",
+          "beatmap_id": 5317479,
+          "beatmapset_id": 1577406,
+          "title": "Fractal Dreamers - Gardens Under A Spring Sky [CS3.6 Edit]"
+        },
+        {
+          "slot": "NM3",
+          "mod": "NM",
+          "beatmap_id": 3772393,
+          "beatmapset_id": 1837241,
+          "title": "penoreri feat. ayu - Zelophilia [damn]"
+        },
+        {
+          "slot": "NM4",
+          "mod": "NM",
+          "beatmap_id": 4060312,
+          "beatmapset_id": 1959476,
+          "title": "awfuless - Temptation [Desire]"
+        },
+        {
+          "slot": "NM5",
+          "mod": "NM",
+          "beatmap_id": 3498809,
+          "beatmapset_id": 1712281,
+          "title": "D-Cee - CITRUS MONSTER [SCR@MBLE!!]"
+        },
+        {
+          "slot": "NM6",
+          "mod": "NM",
+          "beatmap_id": 5032146,
+          "beatmapset_id": 2015757,
+          "title": "II-L - VANGUARD-3 [Tourney Edit]"
+        },
+        {
+          "slot": "HD1",
+          "mod": "HD",
+          "beatmap_id": 2942890,
+          "beatmapset_id": 1429536,
+          "title": "Kenshi Yonezu - MAD HEAD LOVE [CRAZY]"
+        },
+        {
+          "slot": "HR1",
+          "mod": "HR",
+          "beatmap_id": 4256790,
+          "beatmapset_id": 2040573,
+          "title": "Yorushika - Deep Indigo [Extra]"
+        },
+        {
+          "slot": "HR2",
+          "mod": "HR",
+          "beatmap_id": 565471,
+          "beatmapset_id": 54267,
+          "title": "ZUN - Green-Eyed Jealousy [Extra]"
+        },
+        {
+          "slot": "HR3",
+          "mod": "HR",
+          "beatmap_id": 2277760,
+          "beatmapset_id": 1069791,
+          "title": "onoken - Amnolys [Skystar x Crystal's Twin Star Extra]"
+        },
+        {
+          "slot": "DT1",
+          "mod": "DT",
+          "beatmap_id": 2459999,
+          "beatmapset_id": 1160457,
+          "title": "TROISANGES - Angel Lamp [HinSaur's Insane]"
+        },
+        {
+          "slot": "DT2",
+          "mod": "DT",
+          "beatmap_id": 4233872,
+          "beatmapset_id": 2031329,
+          "title": "Daisuke Ishiwatari feat. Mary Dale Sanchez - Childish killer [yaspo's Insane]"
+        },
+        {
+          "slot": "DT3",
+          "mod": "DT",
+          "beatmap_id": 3205479,
+          "beatmapset_id": 1569711,
+          "title": "MisteryCircle - Beyond the boundary [Lunatic]"
+        },
+        {
+          "slot": "DT4",
+          "mod": "DT",
+          "beatmap_id": 4074059,
+          "beatmapset_id": 1964791,
+          "title": "xaev - the elon musk soundcloud acquisition [kglfdsjvfy:3kglowitoib:3dkgmnyoktiivrpabgnfwxtdgrt:3]"
+        },
+        {
+          "slot": "FM1",
+          "mod": "FM",
+          "beatmap_id": 4830168,
+          "beatmapset_id": 2268133,
+          "title": "ime44 - Copy Paste feat. Hatsune Miku [Lazy Imitation]"
+        },
+        {
+          "slot": "FM2",
+          "mod": "FM",
+          "beatmap_id": 3216902,
+          "beatmapset_id": 1575643,
+          "title": "Kanaria - Envy Baby [Unready]"
+        },
+        {
+          "slot": "FM3",
+          "mod": "FM",
+          "beatmap_id": 3933284,
+          "beatmapset_id": 1907405,
+          "title": "AAAA - midnight crisis [Poker Night]"
+        },
+        {
+          "slot": "FM4",
+          "mod": "FM",
+          "beatmap_id": 4509876,
+          "beatmapset_id": 2142528,
+          "title": "MetaHumanBoi - Solar Strike [Exort Extra]"
+        },
+        {
+          "slot": "EZ1",
+          "mod": "EZ",
+          "beatmap_id": 3952391,
+          "beatmapset_id": 1915763,
+          "title": "Nekomata Master+ - Driven Shooter [Delineation]"
+        },
+        {
+          "slot": "RX1",
+          "mod": "RX",
+          "beatmap_id": 5095812,
+          "beatmapset_id": 2363649,
+          "title": "-45 - Malice Call [good luck!]"
+        },
+        {
+          "slot": "WI1",
+          "mod": "WI",
+          "beatmap_id": 4229598,
+          "beatmapset_id": 2029752,
+          "title": "Hana - Kuukirikigaku Shoujo to Shounen no Uta (Sped Up Ver.) [tsundereSam's Sakura III \"Wonderful Everyday\"]"
+        },
+        {
+          "slot": "TB1",
+          "mod": "TB",
+          "beatmap_id": 5223159,
+          "beatmapset_id": 2406703,
+          "title": "Hayakore Tatsumi - Thousandth Sky [Tsubasa+]"
+        },
+        {
+          "slot": "TB2",
+          "mod": "TB",
+          "beatmap_id": 4112706,
+          "beatmapset_id": 1980618,
+          "title": "Technical Hitch - Let's Go Faster [Hypersanic]"
+        },
+        {
+          "slot": "TB3",
+          "mod": "TB",
+          "beatmap_id": 4323431,
+          "beatmapset_id": 2066582,
+          "title": "Leah Kate - Songs Compilation (Sped Up Ver.) [Tragic Love]"
+        }
+      ]
+    },
+    {
+      "round": "Semifinals",
+      "maps": [
+        {
+          "slot": "NM1",
+          "mod": "NM",
+          "beatmap_id": 4786361,
+          "beatmapset_id": 2250598,
+          "title": "Maison book girl - faithlessness [boop]"
+        },
+        {
+          "slot": "NM2",
+          "mod": "NM",
+          "beatmap_id": 3155833,
+          "beatmapset_id": 1543970,
+          "title": "BlackY - KITTY FOILED [EXTRA]"
+        },
+        {
+          "slot": "NM3",
+          "mod": "NM",
+          "beatmap_id": 2784412,
+          "beatmapset_id": 1344469,
+          "title": "Kaf - Montage [pkk's Extra]"
+        },
+        {
+          "slot": "NM4",
+          "mod": "NM",
+          "beatmap_id": 3582212,
+          "beatmapset_id": 1750974,
+          "title": "Yooh - Heracles [Expert]"
+        },
+        {
+          "slot": "NM5",
+          "mod": "NM",
+          "beatmap_id": 3169031,
+          "beatmapset_id": 1550807,
+          "title": "goreshit - Satori De Pon! [Terror]"
+        },
+        {
+          "slot": "HD1",
+          "mod": "HD",
+          "beatmap_id": 4386400,
+          "beatmapset_id": 2092449,
+          "title": "Hommarju feat. Latte - masterpiece (Cut Ver.) [Beomsan's reMASTER]"
+        },
+        {
+          "slot": "HR1",
+          "mod": "HR",
+          "beatmap_id": 1752927,
+          "beatmapset_id": 821998,
+          "title": "HyuN - Infinity Heaven [Extreme]"
+        },
+        {
+          "slot": "HR2",
+          "mod": "HR",
+          "beatmap_id": 3841990,
+          "beatmapset_id": 1867682,
+          "title": "Amatsuki - Outer Science [shh]"
+        },
+        {
+          "slot": "HR3",
+          "mod": "HR",
+          "beatmap_id": 1048128,
+          "beatmapset_id": 491945,
+          "title": "ESTi - ZERO FILL LOVE [Goodbye]"
+        },
+        {
+          "slot": "DT1",
+          "mod": "DT",
+          "beatmap_id": 5223447,
+          "beatmapset_id": 2406841,
+          "title": "kessoku band - Byoushin Shoujo [Our Chronostasis]"
+        },
+        {
+          "slot": "DT2",
+          "mod": "DT",
+          "beatmap_id": 4082310,
+          "beatmapset_id": 1968201,
+          "title": "chelmico - Easy Breezy [ezier bz]"
+        },
+        {
+          "slot": "DT3",
+          "mod": "DT",
+          "beatmap_id": 2640554,
+          "beatmapset_id": 1199234,
+          "title": "Yorushika - Haru Hisagi [Insane]"
+        },
+        {
+          "slot": "FM1",
+          "mod": "FM",
+          "beatmap_id": 3448524,
+          "beatmapset_id": 1687393,
+          "title": "Hana - tree [Euphoria]"
+        },
+        {
+          "slot": "FM2",
+          "mod": "FM",
+          "beatmap_id": 4682942,
+          "beatmapset_id": 2210740,
+          "title": "Kagetora. - Broken Library [Resurrection]"
+        },
+        {
+          "slot": "FM3",
+          "mod": "FM",
+          "beatmap_id": 3716153,
+          "beatmapset_id": 1811658,
+          "title": "Zekk - Feelsleft0ut [Cubby's Extra]"
+        },
+        {
+          "slot": "EZ1",
+          "mod": "EZ",
+          "beatmap_id": 1541243,
+          "beatmapset_id": 730288,
+          "title": "K A Z M A S A - RTCMON [girls' last tour]"
+        },
+        {
+          "slot": "RX1",
+          "mod": "RX",
+          "beatmap_id": 4142643,
+          "beatmapset_id": 1993500,
+          "title": "cygnus - The Evolution of War [jump]"
+        },
+        {
+          "slot": "TB1",
+          "mod": "TB",
+          "beatmap_id": 2509341,
+          "beatmapset_id": 1205078,
+          "title": "MY FIRST STORY feat. chelly (EGOIST) - 1,000,000 TIMES [EVOLUTION]"
+        },
+        {
+          "slot": "TB2",
+          "mod": "TB",
+          "beatmap_id": 2835281,
+          "beatmapset_id": 1371312,
+          "title": "MY FIRST STORY feat. chelly (EGOIST) - 1,000,000 TIMES [It Begins With You]"
+        },
+        {
+          "slot": "TB3",
+          "mod": "TB",
+          "beatmap_id": 5007783,
+          "beatmapset_id": 2333547,
+          "title": "MY FIRST STORY feat. chelly (EGOIST) - 1,000,000 TIMES [the Herta]"
+        }
+      ]
+    },
+    {
+      "round": "Quarterfinals",
+      "maps": [
+        {
+          "slot": "NM1",
+          "mod": "NM",
+          "beatmap_id": 4427773,
+          "beatmapset_id": 2109465,
+          "title": "Taylor Swift - Shake It Off (Taylor's Version) [haters gonna hate]"
+        },
+        {
+          "slot": "NM2",
+          "mod": "NM",
+          "beatmap_id": 2872154,
+          "beatmapset_id": 1390922,
+          "title": "Serenity - Lionheart [Extreme]"
+        },
+        {
+          "slot": "NM3",
+          "mod": "NM",
+          "beatmap_id": 3160017,
+          "beatmapset_id": 1281223,
+          "title": "adust rain - Judgement of the Sun [Punishment]"
+        },
+        {
+          "slot": "NM4",
+          "mod": "NM",
+          "beatmap_id": 2257657,
+          "beatmapset_id": 1079038,
+          "title": "Co Shu Nie - bullet (Slushii Remix) [AxariousMyMommy Collab]"
+        },
+        {
+          "slot": "NM5",
+          "mod": "NM",
+          "beatmap_id": 3669483,
+          "beatmapset_id": 1790762,
+          "title": "Laur - Viyella's Tears [Conflict]"
+        },
+        {
+          "slot": "HD1",
+          "mod": "HD",
+          "beatmap_id": 3786378,
+          "beatmapset_id": 1719635,
+          "title": "ShinRa-Bansho - Watashi Kenshi [Collab Extra]"
+        },
+        {
+          "slot": "HR1",
+          "mod": "HR",
+          "beatmap_id": 4254852,
+          "beatmapset_id": 2039773,
+          "title": "La priere - Atonement Twins [EEEEEEEEE]"
+        },
+        {
+          "slot": "HR2",
+          "mod": "HR",
+          "beatmap_id": 1678113,
+          "beatmapset_id": 599735,
+          "title": "Feryquitous - Lividi [Rein's EXPERT]"
+        },
+        {
+          "slot": "HR3",
+          "mod": "HR",
+          "beatmap_id": 1222252,
+          "beatmapset_id": 577504,
+          "title": "Memme - Cherry Blossom [Dance]"
+        },
+        {
+          "slot": "DT1",
+          "mod": "DT",
+          "beatmap_id": 3731614,
+          "beatmapset_id": 1818758,
+          "title": "Eri Sasaki - Ring of Fortune [Lasting Memories]"
+        },
+        {
+          "slot": "DT2",
+          "mod": "DT",
+          "beatmap_id": 2843601,
+          "beatmapset_id": 1375718,
+          "title": "Kozato - Tsuki -Yue- [el psy congroo]"
+        },
+        {
+          "slot": "DT3",
+          "mod": "DT",
+          "beatmap_id": 3925545,
+          "beatmapset_id": 1799181,
+          "title": "Rina Sawayama - Comme Des Garcons (Like The Boys) [revoh's Insane!]"
+        },
+        {
+          "slot": "FM1",
+          "mod": "FM",
+          "beatmap_id": 4647233,
+          "beatmapset_id": 2131914,
+          "title": "RONDO - Musou Kyoku -Traeumerei- [PaRaDogi's Expert]"
+        },
+        {
+          "slot": "FM2",
+          "mod": "FM",
+          "beatmap_id": 4353802,
+          "beatmapset_id": 1824709,
+          "title": "Sakuzyo - Erlung [CS5.5 AR7.5]"
+        },
+        {
+          "slot": "FM3",
+          "mod": "FM",
+          "beatmap_id": 4101047,
+          "beatmapset_id": 1633221,
+          "title": "AAAA vs. Frums - beepbit * futures [seolvs * extra]"
+        },
+        {
+          "slot": "EZ1",
+          "mod": "EZ",
+          "beatmap_id": 86352,
+          "beatmapset_id": 25491,
+          "title": "Kozato Snow - Izayoi Sakura [Insane]"
+        },
+        {
+          "slot": "RX1",
+          "mod": "RX",
+          "beatmap_id": 4210732,
+          "beatmapset_id": 2021853,
+          "title": "Hai Nan - Ai la la [aim 1.4x (168bpm) AR9.4 OD8.4]"
+        },
+        {
+          "slot": "TB1",
+          "mod": "TB",
+          "beatmap_id": 4969218,
+          "beatmapset_id": 2305153,
+          "title": "Pendulum - Watercolour [Collab]"
+        },
+        {
+          "slot": "TB2",
+          "mod": "TB",
+          "beatmap_id": 4622422,
+          "beatmapset_id": 2186382,
+          "title": "hasu - Chaoschild -Konton no Rakuin- [The Company]"
+        },
+        {
+          "slot": "TB3",
+          "mod": "TB",
+          "beatmap_id": 2581632,
+          "beatmapset_id": 1241769,
+          "title": "rejection - Signal feat. Such [Resonance Signal]"
+        }
+      ]
+    },
+    {
+      "round": "Swiss Stage 3",
+      "maps": [
+        {
+          "slot": "NM1",
+          "mod": "NM",
+          "beatmap_id": 2391305,
+          "beatmapset_id": 1145366,
+          "title": "Kicco - Akari no Arika [Crimson]"
+        },
+        {
+          "slot": "NM2",
+          "mod": "NM",
+          "beatmap_id": 3603499,
+          "beatmapset_id": 1760662,
+          "title": "Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- [-EXTRa-]"
+        },
+        {
+          "slot": "NM3",
+          "mod": "NM",
+          "beatmap_id": 5147785,
+          "beatmapset_id": 2338900,
+          "title": "Shinra-Bansho - The Maid's Heart is a Puppet [Misure's Expert v_v]"
+        },
+        {
+          "slot": "NM4",
+          "mod": "NM",
+          "beatmap_id": 543496,
+          "beatmapset_id": 186911,
+          "title": "Function Phantom - Neuronecia [iyasine's Insane]"
+        },
+        {
+          "slot": "NM5",
+          "mod": "NM",
+          "beatmap_id": 3594996,
+          "beatmapset_id": 1756721,
+          "title": "Zektbach - L'erisia(Primal Logic) [Remap]"
+        },
+        {
+          "slot": "HD1",
+          "mod": "HD",
+          "beatmap_id": 3374102,
+          "beatmapset_id": 1652762,
+          "title": "Y&Co. - Daisuke [AR8]"
+        },
+        {
+          "slot": "HR1",
+          "mod": "HR",
+          "beatmap_id": 2143181,
+          "beatmapset_id": 1024635,
+          "title": "Maduk - Got Me Thinking (feat. Veela) [Get Yourself An MRI]"
+        },
+        {
+          "slot": "HR2",
+          "mod": "HR",
+          "beatmap_id": 4092079,
+          "beatmapset_id": 1972104,
+          "title": "James Landino - Arsene's Bazaar [Expert]"
+        },
+        {
+          "slot": "HR3",
+          "mod": "HR",
+          "beatmap_id": 4879428,
+          "beatmapset_id": 2272348,
+          "title": "Tedjimo yomigY - JezoensiS [Collab experT]"
+        },
+        {
+          "slot": "DT1",
+          "mod": "DT",
+          "beatmap_id": 493755,
+          "beatmapset_id": 209810,
+          "title": "Nishino Kana - Darling [Insane]"
+        },
+        {
+          "slot": "DT2",
+          "mod": "DT",
+          "beatmap_id": 4158338,
+          "beatmapset_id": 1884920,
+          "title": "NIWASHI - Harder Than Diamond [Daycore's Hard]"
+        },
+        {
+          "slot": "DT3",
+          "mod": "DT",
+          "beatmap_id": 3057427,
+          "beatmapset_id": 956634,
+          "title": "Fox Stevenson - All This Time [Asphyxia's Insane]"
+        },
+        {
+          "slot": "FM1",
+          "mod": "FM",
+          "beatmap_id": 3124235,
+          "beatmapset_id": 1527194,
+          "title": "Origami Angel - The Title Track [watr]"
+        },
+        {
+          "slot": "FM2",
+          "mod": "FM",
+          "beatmap_id": 5300140,
+          "beatmapset_id": 2432548,
+          "title": "Yasui Yousuke - Bust a Move! - Natsuki side - [Enforcer]"
+        },
+        {
+          "slot": "FM3",
+          "mod": "FM",
+          "beatmap_id": 2418108,
+          "beatmapset_id": 1158767,
+          "title": "M2U - A Bella! (feat. Lucy) [Melwoine's Extra]"
+        },
+        {
+          "slot": "EZ1",
+          "mod": "EZ",
+          "beatmap_id": 4277364,
+          "beatmapset_id": 1796464,
+          "title": "Kairiki bear feat. Hatsune Miku - BUG [vastly's Paranoia Extra]"
+        },
+        {
+          "slot": "WI1",
+          "mod": "WI",
+          "beatmap_id": 5123942,
+          "beatmapset_id": 2373050,
+          "title": "USAO - Phalanx [Frontline]"
+        },
+        {
+          "slot": "TB1",
+          "mod": "TB",
+          "beatmap_id": 620789,
+          "beatmapset_id": 145978,
+          "title": "DJ SHARPNEL - FAKE PROMISE [TRUE]"
+        },
+        {
+          "slot": "TB2",
+          "mod": "TB",
+          "beatmap_id": 2684468,
+          "beatmapset_id": 1293620,
+          "title": "DJ SHARPNEL - FAKE PROMISE [TRUE LOVE]"
+        },
+        {
+          "slot": "TB3",
+          "mod": "TB",
+          "beatmap_id": 4592010,
+          "beatmapset_id": 2174924,
+          "title": "RUON feat. Meramipop - Secret Desire - Dyes Remix - [Secret Chronicles: 2019]"
+        }
+      ]
+    },
+    {
+      "round": "Swiss Stage 2",
+      "maps": [
+        {
+          "slot": "NM1",
+          "mod": "NM",
+          "beatmap_id": 3242527,
+          "beatmapset_id": 1581321,
+          "title": "Kawada Mami - Serment [Akitoshi's Extra]"
+        },
+        {
+          "slot": "NM2",
+          "mod": "NM",
+          "beatmap_id": 3239319,
+          "beatmapset_id": 1580085,
+          "title": "TEARS OF TRAGEDY - Yuugen [Mayu's Extra]"
+        },
+        {
+          "slot": "NM3",
+          "mod": "NM",
+          "beatmap_id": 2167576,
+          "beatmapset_id": 1001507,
+          "title": "ZUTOMAYO - Kan Saete Kuyashiiwa [Luscent's Extra]"
+        },
+        {
+          "slot": "NM4",
+          "mod": "NM",
+          "beatmap_id": 4051891,
+          "beatmapset_id": 1955981,
+          "title": "lapix - Flying Castle [Above and Beyond (5WC ver.)]"
+        },
+        {
+          "slot": "NM5",
+          "mod": "NM",
+          "beatmap_id": 4829862,
+          "beatmapset_id": 2268007,
+          "title": "Toromaru - Deorbit [Insane]"
+        },
+        {
+          "slot": "HD1",
+          "mod": "HD",
+          "beatmap_id": 3622214,
+          "beatmapset_id": 1769472,
+          "title": "King Gizzard & The Lizard Wizard - Wah Wah [Bizarre]"
+        },
+        {
+          "slot": "HR1",
+          "mod": "HR",
+          "beatmap_id": 1650971,
+          "beatmapset_id": 786498,
+          "title": "Trial & Error - Tokoyami no keiyaku KEGARETA-SHOUJO feat. GUMI [pishi's Insane]"
+        },
+        {
+          "slot": "HR2",
+          "mod": "HR",
+          "beatmap_id": 2256206,
+          "beatmapset_id": 1076733,
+          "title": "Arizona Zervas - ROXANNE [DeviousPanda's Expert]"
+        },
+        {
+          "slot": "HR3",
+          "mod": "HR",
+          "beatmap_id": 5258489,
+          "beatmapset_id": 2418349,
+          "title": "Rasupi vs YasimiKiller as Apricot respect for P.S.C - MENDES+4 [nm5]"
+        },
+        {
+          "slot": "DT1",
+          "mod": "DT",
+          "beatmap_id": 3904943,
+          "beatmapset_id": 1894841,
+          "title": "Kano - Sayounara, Hanadorobou-san [dahkjdas' Insane]"
+        },
+        {
+          "slot": "DT2",
+          "mod": "DT",
+          "beatmap_id": 3688128,
+          "beatmapset_id": 1799071,
+          "title": "ZUN - Extend Ash ~ Houraijin [Insane]"
+        },
+        {
+          "slot": "DT3",
+          "mod": "DT",
+          "beatmap_id": 4440200,
+          "beatmapset_id": 2108157,
+          "title": "Ayane - Arrival of Tears [maotwqdf's Hard]"
+        },
+        {
+          "slot": "FM1",
+          "mod": "FM",
+          "beatmap_id": 3299842,
+          "beatmapset_id": 1610224,
+          "title": "Sougetsu Eli - Aoi Chou [Ephemeral]"
+        },
+        {
+          "slot": "FM2",
+          "mod": "FM",
+          "beatmap_id": 5114996,
+          "beatmapset_id": 2203107,
+          "title": "Hikarisyuyo - Cracking [Insane+]"
+        },
+        {
+          "slot": "FM3",
+          "mod": "FM",
+          "beatmap_id": 3045507,
+          "beatmapset_id": 1201530,
+          "title": "Dictate - IMITATE [Elcheer x Fisky's Insane]"
+        },
+        {
+          "slot": "EZ1",
+          "mod": "EZ",
+          "beatmap_id": 4541081,
+          "beatmapset_id": 2154609,
+          "title": "DECO*27 - Rabbit Hole feat. Hatsune Miku [Extra]"
+        },
+        {
+          "slot": "RX1",
+          "mod": "RX",
+          "beatmap_id": 3275381,
+          "beatmapset_id": 1603894,
+          "title": "Slax - Loli Bomb [love bomb 210]"
+        },
+        {
+          "slot": "TB1",
+          "mod": "TB",
+          "beatmap_id": 3340629,
+          "beatmapset_id": 1636878,
+          "title": "The Prodigy - Voodoo People (Pendulum Remix) [Magic People]"
+        },
+        {
+          "slot": "TB2",
+          "mod": "TB",
+          "beatmap_id": 4810293,
+          "beatmapset_id": 1579793,
+          "title": "Soleily - From That Summer To Forever [Collab]"
+        },
+        {
+          "slot": "TB3",
+          "mod": "TB",
+          "beatmap_id": 5071143,
+          "beatmapset_id": 2355206,
+          "title": "Nizikawa - Babel feat. nayuta [UW Collab Expert]"
+        }
+      ]
+    },
+    {
+      "round": "Swiss Stage 1",
+      "maps": [
+        {
+          "slot": "NM1",
+          "mod": "NM",
+          "beatmap_id": 4226272,
+          "beatmapset_id": 2028144,
+          "title": "Dokuro-chan (Chiba Saeko) - Bokusatsu Tenshi Dokuro-chan 2007 [Excalibolg 2023]"
+        },
+        {
+          "slot": "NM2",
+          "mod": "NM",
+          "beatmap_id": 2317802,
+          "beatmapset_id": 1089678,
+          "title": "Juggernaut. - Apocaliptix [Moko's Extra]"
+        },
+        {
+          "slot": "NM3",
+          "mod": "NM",
+          "beatmap_id": 2228959,
+          "beatmapset_id": 665886,
+          "title": "Hana to Onyx - Ariadne [Collab Insane]"
+        },
+        {
+          "slot": "NM4",
+          "mod": "NM",
+          "beatmap_id": 4215698,
+          "beatmapset_id": 1876071,
+          "title": "Redside - Sidequest [meowusername's extra]"
+        },
+        {
+          "slot": "NM5",
+          "mod": "NM",
+          "beatmap_id": 4527213,
+          "beatmapset_id": 1880545,
+          "title": "Down - Down [Wispy's Down Expert]"
+        },
+        {
+          "slot": "HD1",
+          "mod": "HD",
+          "beatmap_id": 805025,
+          "beatmapset_id": 213068,
+          "title": "ginkiha - Borealis [Oxy's Master]"
+        },
+        {
+          "slot": "HD2",
+          "mod": "HD",
+          "beatmap_id": 3025411,
+          "beatmapset_id": 1474140,
+          "title": "Bomfunk MC's - Freestyler [Hyper]"
+        },
+        {
+          "slot": "HR1",
+          "mod": "HR",
+          "beatmap_id": 4006306,
+          "beatmapset_id": 1570534,
+          "title": "REDALiCE - DEAD or DIE [Collab Extra]"
+        },
+        {
+          "slot": "HR2",
+          "mod": "HR",
+          "beatmap_id": 3243700,
+          "beatmapset_id": 1588183,
+          "title": "Tanchiky - Figure [Insane]"
+        },
+        {
+          "slot": "DT1",
+          "mod": "DT",
+          "beatmap_id": 616251,
+          "beatmapset_id": 270999,
+          "title": "yanaginagi - Owari no Sekai kara [Insane]"
+        },
+        {
+          "slot": "DT2",
+          "mod": "DT",
+          "beatmap_id": 3524604,
+          "beatmapset_id": 1724615,
+          "title": "DIANA - Beethoven Virus [Insane]"
+        },
+        {
+          "slot": "DT3",
+          "mod": "DT",
+          "beatmap_id": 3678905,
+          "beatmapset_id": 1794858,
+          "title": "Lamp - Autumn In City A [candy]"
+        },
+        {
+          "slot": "FM1",
+          "mod": "FM",
+          "beatmap_id": 4159092,
+          "beatmapset_id": 2000439,
+          "title": "Sound Souler - Andromeda 02 [QUASAR +1]"
+        },
+        {
+          "slot": "FM2",
+          "mod": "FM",
+          "beatmap_id": 3062815,
+          "beatmapset_id": 1493527,
+          "title": "VESPERBELL - Vampire [Ayucchi's Expert]"
+        },
+        {
+          "slot": "FM3",
+          "mod": "FM",
+          "beatmap_id": 1602909,
+          "beatmapset_id": 756815,
+          "title": "PUP - DVP [Maestro's Extra]"
+        },
+        {
+          "slot": "EZ1",
+          "mod": "EZ",
+          "beatmap_id": 1919312,
+          "beatmapset_id": 919187,
+          "title": "765 MILLION ALLSTARS - UNION!! [We are all MILLION!!]"
+        },
+        {
+          "slot": "RX1",
+          "mod": "RX",
+          "beatmap_id": 3772513,
+          "beatmapset_id": 1769121,
+          "title": "UKRampage - Replica feat. mami [Dailycare's Facsimile]"
+        },
+        {
+          "slot": "TB",
+          "mod": "TB",
+          "beatmap_id": 5020168,
+          "beatmapset_id": 2337911,
+          "title": "Hayakore Tatsumi - We without Wings [Pure white Sky]"
+        }
+      ]
+    }
+  ]
+}
