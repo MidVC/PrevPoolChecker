@@ -157,6 +157,10 @@ sheet has several (e.g. `T1`/`T2`). Useful flags when a sheet is irregular:
 
 ## Notes on the WOC sheets ingested so far
 
+- **WOC 23** ? tab `Mappools`. Swiss Rounds 1?3 + Quarterfinals +
+  Semifinals + Finals (6 rounds, 150 maps). All beatmap set IDs come from
+  the sheet hyperlinks; round headings were preserved explicitly because they
+  sit four rows above the column labels.
 - **WOC 22** — tab `Mappool`. Week 1–3 + Semi-Finals + Finals (120 maps). Skipped
   empty Qualifiers/Group Stage/Grand Finals, a `Test` scratch pool, and a
   duplicate (draft) week set.
